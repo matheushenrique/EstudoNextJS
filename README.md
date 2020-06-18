@@ -1,5 +1,7 @@
-Applicativo utilizando Next.js
+Criação de uma aplicação teste, utilizando Next.js
 
 Server sider render 
 
-Indexar a pagina para Search Optimization
+Motivo de utilizar: Indexar a pagina para Search Optimization, primeiro acesso os dados são renderizados no backend e não no frontend
+
+Next utiliza cada pagina dentro do folder pages como uma rota
