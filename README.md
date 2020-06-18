@@ -7,3 +7,5 @@ Motivo de utilizar: Indexar a pagina para Search Optimization, primeiro acesso o
 Next utiliza cada pagina dentro do folder pages como uma rota
 
 _document, arquivo de documento global, usado como base para montar todas as paginas da aplicacao
+
+hoc, high order component, compartilhar um funcionamento entre varios componentes
